@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Shippori Mincho", serif;
+    line-height: 1.5;
+}
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+a{
+    transition: 0.3s;
+}
+a:hover{
+    opacity: 0.7;
+}
+.header{
+    margin: 64px;
+    margin-bottom: 50px;
+   
+}
+.middle{
+   margin: 64px 64px 320px 64px;
+}
+.middle_item{
+    display: flex;
+    margin: 16px;
+}
+.middle_list{
+    margin: 16px;
+    margin-top: 16px;
+    font-size: 24px;
+}
+.middle2{
+    margin: 64px 64px 240px 64px;
+    
+}
+.color{
+    margin: 64px;
+}
+.color_item{
+    display: flex;
+    margin: 16px 16px 16px 16px;
+    justify-content: space-evenly;
+}
+.moji{
+    margin: 64px;
+}
+.moji_item{
+    display: flex;
+    text-align: center;
+    margin: 16px 16px 16px 16px;
+    font-size: 24px;
+
+}
+.site{
+    margin: 64px;
+}
+.site_item{
+    margin: 16px 16px 180px 16px;
+    display: flex;
+    justify-content: space-evenly;
+}
